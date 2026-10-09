@@ -1,4 +1,8 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Hieu Huynh. I am a final-year business analytics student at Deakin University. I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
+Hi, I’m Hill 👋
+Business Analytics student at Deakin University (graduating June 2027), interested in data analytics, BI, and analytics engineering.
+🔧 Skills: SQL · Python (Pandas, Scikit-learn) · Power BI (DAX, data modelling) · Excel
+📊 Currently building: an end-to-end pipeline on Melbourne open data with dbt + Power BI
+
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/hmh06206)
