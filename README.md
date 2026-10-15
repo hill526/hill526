@@ -9,7 +9,6 @@ Business Analytics student at Deakin University (graduating June 2027), interest
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/hmh06206)
 
-<a href=https://github.com/hill526/bike-sharing-demand-forecasting>
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
-</a> 
+<a href="https://github.com/hill526/bike-sharing-demand-forecasting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hill526&repo=bike-sharing-demand-forecasting&theme=radical" />
+</a>
